@@ -1,1 +1,1 @@
-Repo for the Django Sample App.
+Repo for the Django Basic Poll Sample App.
